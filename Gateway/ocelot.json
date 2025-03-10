@@ -82,7 +82,7 @@
             "UpstreamHttpMethod": [ "GET", "DELETE" ]
         },
         {
-            "DownstreamPathTemplate": "/api/User",
+            "DownstreamPathTemplate": "/api/UserController",
             "DownstreamScheme": "http",
             "DownstreamHostAndPorts": [
                 {
